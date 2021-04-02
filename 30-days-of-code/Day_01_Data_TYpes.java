@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Day_1_Data_Types {
+public class Day_01_Data_Types {
     public static void main (String args []){
         Scanner input = new Scanner(System.in);
         
